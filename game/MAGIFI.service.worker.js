@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791110572|4600271';
+const CACHE_VERSION = '1791112888|4165127';
 /** @type {string} */
 const CACHE_PREFIX = 'MAGIFI V1 // OCT-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
